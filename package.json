@@ -1,6 +1,6 @@
 {
     "name": "sanity-plugin-color-list",
-    "version": "2.0.2",
+    "version": "2.0.3-beta.0",
     "description": "A custom input component for displaying an array of color to pick from.",
     "main": "build/index.js",
     "scripts": {
@@ -47,10 +47,8 @@
         "styled-components": "^5.2.1"
     },
     "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.17.0",
         "@ctrl/tinycolor": "^2.5.4",
         "@sanity/ui": "^0.34.4",
-        "babel-plugin-styled-components": "^2.0.7",
         "lodash": "^4.17.20",
         "prop-types": "^15.7.2"
     }
