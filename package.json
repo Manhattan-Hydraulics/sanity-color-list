@@ -49,7 +49,6 @@
     "dependencies": {
         "@ctrl/tinycolor": "^2.5.4",
         "@sanity/ui": "^0.34.4",
-        "babel-plugin-styled-components": "^2.0.7",
         "lodash": "^4.17.20",
         "prop-types": "^15.7.2"
     }
