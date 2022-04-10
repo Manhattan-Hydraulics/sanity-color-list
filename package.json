@@ -31,6 +31,7 @@
     },
     "homepage": "https://github.com/KimPaow/sanity-color-list#readme",
     "devDependencies": {
+        "babel-plugin-styled-components": "^2.0.7",
         "eslint": "^7.19.0",
         "eslint-config-prettier": "^7.2.0",
         "eslint-config-sanity": "^5.0.0",
