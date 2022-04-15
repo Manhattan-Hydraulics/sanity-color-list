@@ -31,6 +31,7 @@
     },
     "homepage": "https://github.com/KimPaow/sanity-color-list#readme",
     "devDependencies": {
+        "babel-plugin-styled-components": "^2.0.7",
         "eslint": "^7.19.0",
         "eslint-config-prettier": "^7.2.0",
         "eslint-config-sanity": "^5.0.0",
@@ -38,7 +39,7 @@
         "eslint-plugin-react": "^7.22.0",
         "prettier": "^2.2.1",
         "react": "^17.0.1",
-        "sanipack": "^2.0.1"
+        "sanipack": "^2.1.0"
     },
     "peerDependencies": {
         "@sanity/base": "^2.11.0",
