@@ -1,6 +1,6 @@
 {
     "name": "sanity-plugin-color-list",
-    "version": "2.0.3-beta.4",
+    "version": "2.0.3-beta.0",
     "description": "A custom input component for displaying an array of color to pick from.",
     "main": "build/index.js",
     "scripts": {
@@ -31,9 +31,6 @@
     },
     "homepage": "https://github.com/KimPaow/sanity-color-list#readme",
     "devDependencies": {
-        "@babel/plugin-transform-runtime": "^7.17.0",
-        "@babel/preset-env": "^7.16.11",
-        "babel-plugin-styled-components": "^2.0.7",
         "eslint": "^7.19.0",
         "eslint-config-prettier": "^7.2.0",
         "eslint-config-sanity": "^5.0.0",
@@ -41,7 +38,7 @@
         "eslint-plugin-react": "^7.22.0",
         "prettier": "^2.2.1",
         "react": "^17.0.1",
-        "sanipack": "^2.1.0"
+        "sanipack": "^2.0.1"
     },
     "peerDependencies": {
         "@sanity/base": "^2.11.0",
@@ -50,11 +47,9 @@
         "styled-components": "^5.2.1"
     },
     "dependencies": {
-        "@babel/runtime": "^7.17.9",
         "@ctrl/tinycolor": "^2.5.4",
         "@sanity/ui": "^0.34.4",
         "lodash": "^4.17.20",
-        "prop-types": "^15.7.2",
-        "regenerator-runtime": "^0.13.9"
+        "prop-types": "^15.7.2"
     }
 }
