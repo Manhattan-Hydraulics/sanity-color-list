@@ -39,7 +39,7 @@
         "eslint-plugin-react": "^7.22.0",
         "prettier": "^2.2.1",
         "react": "^17.0.1",
-        "sanipack": "^2.0.1"
+        "sanipack": "^2.1.0"
     },
     "peerDependencies": {
         "@sanity/base": "^2.11.0",
@@ -48,8 +48,6 @@
         "styled-components": "^5.2.1"
     },
     "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.17.0",
-        "@babel/runtime": "^7.17.9",
         "@ctrl/tinycolor": "^2.5.4",
         "@sanity/ui": "^0.34.4",
         "lodash": "^4.17.20",
